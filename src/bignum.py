@@ -3,4 +3,4 @@
 
 # YOUR CODE HERE
 print(2)
-print(65536)
+print(pow(2, 65536))
